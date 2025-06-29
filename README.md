@@ -70,6 +70,9 @@ tiny_transformer_weights.pth
 Inspect how each attention head focuses across tokens:
 -atten_image
 
+![Transformer Decoder Architecture](https://raw.githubusercontent.com/Umang-projects/-Transformer-Decoder-from-Scratch-Tiny-Shakespeare-/main/atten_image.png)
+
+
 ## 🤔 Why I Built This
 -I didn’t want to just use transformers—I wanted to understand them end‑to‑end:
 -Reinforce the theory behind attention mechanisms.
