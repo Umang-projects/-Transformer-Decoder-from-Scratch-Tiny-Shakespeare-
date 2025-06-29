@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+matplotlib
+numpy
+
+
+you can install with command "pip install -r requirements.txt".
